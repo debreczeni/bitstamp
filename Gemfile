@@ -2,9 +2,9 @@ ruby '2.4.1'
 
 source "http://rubygems.org"
 # Add dependencies required to use your gem here.
-gem "activemodel", '~> 5.1'
-gem "activesupport", '~> 5.1'
-gem "rest-client", '2.0.2'
+gem "activemodel", '~> 4.2'
+gem "activesupport", '~> 4.2'
+gem "rest-client", '>=2.0.2'
 gem "ruby-hmac"
 
 # Add dependencies to develop your gem here.
