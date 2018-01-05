@@ -1,4 +1,4 @@
-ruby '2.4.1'
+ruby '2.3.6'
 
 source "http://rubygems.org"
 # Add dependencies required to use your gem here.
